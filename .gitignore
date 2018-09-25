@@ -12,3 +12,11 @@ npm-debug.log
 yarn-error.log
 .env
 .phpunit.result.cache
+resources/views/admin/
+resources/views/notify/
+resources/views/partials/
+resources/views/requester/layouts/
+resources/views/requester/notify/
+resources/views/requester/partials/
+resources/views/requester/templates/
+resources/views/responder/
